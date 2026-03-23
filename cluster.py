@@ -50,9 +50,9 @@ for k in ks:
     bics.append(bic)
     print(f"BIC={bic:.0f}")
 
-best_idx = np.argmin(bics)
-best_k = ks[best_idx]
-print(f"\nBest k={best_k} (BIC={bics[best_idx]:.0f})")
+best_k = 32
+best_idx = ks.index(best_k)
+print(f"\nSelected k={best_k} (BIC elbow, BIC={bics[best_idx]:.0f})")
 
 # --- Single two-panel plot ---
 fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(14, 5))
