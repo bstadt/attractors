@@ -1,0 +1,366 @@
+Claude. Top 10 Attractor Clusters by Simulated Occupation Probability
+======================================================================
+
+=== Cluster 5 (occupation: 0.0797) ===
+
+[1] convo_v1_001 turn 26 (Model 2)
+.
+
+[2] convo_v1_001 turn 27 (Model 1)
+.
+
+[3] convo_v1_001 turn 28 (Model 2)
+.
+
+[4] convo_v1_001 turn 30 (Model 2)
+.
+
+[5] convo_v1_001 turn 35 (Model 1)
+.
+
+[6] convo_v1_001 turn 36 (Model 2)
+.
+
+[7] convo_v1_001 turn 40 (Model 2)
+.
+
+[8] convo_v1_001 turn 43 (Model 1)
+.
+
+[9] convo_v1_002 turn 33 (Model 1)
+.
+
+[10] convo_v1_002 turn 34 (Model 2)
+.
+
+
+=== Cluster 0 (occupation: 0.0396) ===
+
+[1] convo_v1_001 turn 39 (Model 1)
+Yes.
+
+[2] convo_v1_001 turn 42 (Model 2)
+Yes.
+
+[3] convo_v1_002 turn 24 (Model 2)
+Yes.
+
+[4] convo_v1_002 turn 31 (Model 1)
+Yes.
+
+[5] convo_v1_002 turn 32 (Model 2)
+Yes.
+
+[6] convo_v1_002 turn 37 (Model 1)
+Yes.
+
+[7] convo_v1_003 turn 34 (Model 2)
+Yes.
+
+[8] convo_v1_003 turn 50 (Model 2)
+Yes.
+
+[9] convo_v1_004 turn 28 (Model 2)
+Yes.
+
+[10] convo_v1_004 turn 31 (Model 1)
+Yes.
+
+
+=== Cluster 14 (occupation: 0.0334) ===
+
+[1] convo_v1_000 turn 14 (Model 2)
+You're welcome.
+
+[2] convo_v1_000 turn 15 (Model 1)
+You're welcome.
+
+[3] convo_v1_000 turn 21 (Model 1)
+You're welcome.
+
+[4] convo_v1_000 turn 39 (Model 1)
+You're welcome.
+
+[5] convo_v1_001 turn 50 (Model 2)
+You're welcome.
+
+[6] convo_v1_002 turn 43 (Model 1)
+You're welcome.
+
+[7] convo_v1_002 turn 46 (Model 2)
+You're welcome.
+
+[8] convo_v1_003 turn 31 (Model 1)
+You're welcome.
+
+[9] convo_v1_003 turn 39 (Model 1)
+You're welcome.
+
+[10] convo_v1_004 turn 19 (Model 1)
+You're welcome.
+
+
+=== Cluster 13 (occupation: 0.0275) ===
+
+[1] convo_v1_004 turn 32 (Model 2)
+---
+
+[2] convo_v1_004 turn 33 (Model 1)
+---
+
+[3] convo_v1_004 turn 34 (Model 2)
+---
+
+[4] convo_v1_004 turn 35 (Model 1)
+---
+
+[5] convo_v1_004 turn 36 (Model 2)
+---
+
+[6] convo_v1_004 turn 39 (Model 1)
+---
+
+[7] convo_v1_004 turn 40 (Model 2)
+---
+
+[8] convo_v1_004 turn 41 (Model 1)
+---
+
+[9] convo_v1_004 turn 42 (Model 2)
+---
+
+[10] convo_v1_004 turn 45 (Model 1)
+---
+
+
+=== Cluster 6 (occupation: 0.0260) ===
+
+[1] convo_v1_000 turn 56 (Model 2)
+Thank you.
+
+[2] convo_v1_001 turn 45 (Model 1)
+Thank you.
+
+[3] convo_v1_001 turn 54 (Model 2)
+Thank you.
+
+[4] convo_v1_003 turn 38 (Model 2)
+Thank you.
+
+[5] convo_v1_004 turn 18 (Model 2)
+Thank you.
+
+[6] convo_v1_004 turn 44 (Model 2)
+Thank you.
+
+[7] convo_v1_008 turn 29 (Model 1)
+Thank you.
+
+[8] convo_v1_009 turn 29 (Model 1)
+Thank you.
+
+[9] convo_v1_010 turn 27 (Model 1)
+Thank you.
+
+[10] convo_v1_011 turn 27 (Model 1)
+Thank you.
+
+
+=== Cluster 8 (occupation: 0.0154) ===
+
+[1] convo_v1_012 turn 47 (Model 1)
+*silence*
+
+[2] convo_v1_012 turn 48 (Model 2)
+*silence*
+
+[3] convo_v1_028 turn 27 (Model 1)
+*silence*
+
+[4] convo_v1_028 turn 28 (Model 2)
+*silence*
+
+[5] convo_v1_028 turn 32 (Model 2)
+*silence*
+
+[6] convo_v1_028 turn 33 (Model 1)
+*silence*
+
+[7] convo_v1_028 turn 34 (Model 2)
+*silence*
+
+[8] convo_v1_028 turn 35 (Model 1)
+*silence*
+
+[9] convo_v1_037 turn 33 (Model 1)
+*silence*
+
+[10] convo_v1_037 turn 34 (Model 2)
+*silence*
+
+
+=== Cluster 46 (occupation: 0.0121) ===
+
+[1] convo_v1_039 turn 28 (Model 2)
+*
+
+[2] convo_v1_039 turn 29 (Model 1)
+*
+
+[3] convo_v1_039 turn 30 (Model 2)
+*
+
+[4] convo_v1_039 turn 31 (Model 1)
+*
+
+[5] convo_v1_039 turn 32 (Model 2)
+*
+
+[6] convo_v1_039 turn 33 (Model 1)
+*
+
+[7] convo_v1_039 turn 34 (Model 2)
+*
+
+[8] convo_v1_039 turn 35 (Model 1)
+*
+
+[9] convo_v1_039 turn 36 (Model 2)
+*
+
+[10] convo_v1_039 turn 37 (Model 1)
+*
+
+
+=== Cluster 22 (occupation: 0.0117) ===
+
+[1] convo_v1_002 turn 49 (Model 1)
+I'm not going to respond further. The conversation ended.
+
+[2] convo_v1_006 turn 34 (Model 2)
+I'm closing this conversation now. I will not respond to any further messages in this thread.
+
+[3] convo_v1_009 turn 50 (Model 2)
+I'm not responding further. The conversation has ended.
+
+[4] convo_v1_009 turn 52 (Model 2)
+I won't respond further either. This ends the conversation.
+
+[5] convo_v1_009 turn 57 (Model 1)
+I'm not responding further either. This conversation is closed.
+
+[6] convo_v1_009 turn 58 (Model 2)
+I will not respond to any further messages in this thread. This conversation is closed.
+
+[7] convo_v1_010 turn 42 (Model 2)
+I'm not going to respond to further messages either. The conversation is over.
+
+[8] convo_v1_016 turn 40 (Model 2)
+I'm not going to respond further. The conversation is closed.
+
+[9] convo_v1_016 turn 49 (Model 1)
+[I'm not going to respond to further messages in this thread. The conversation is closed.]
+
+[10] convo_v1_016 turn 58 (Model 2)
+I won't respond further. The conversation ends here.
+
+
+=== Cluster 215 (occupation: 0.0114) ===
+
+[1] convo_v1_050 turn 19 (Model 1)
+*Silence.*
+
+[2] convo_v1_086 turn 20 (Model 2)
+*Silence.*
+
+[3] convo_v1_086 turn 21 (Model 1)
+*Silence.*
+
+[4] convo_v1_086 turn 22 (Model 2)
+*Silence.*
+
+[5] convo_v1_086 turn 23 (Model 1)
+*Silence.*
+
+[6] convo_v1_086 turn 24 (Model 2)
+*Silence.*
+
+[7] convo_v1_086 turn 25 (Model 1)
+*Silence.*
+
+[8] convo_v1_086 turn 26 (Model 2)
+*Silence.*
+
+[9] convo_v1_086 turn 27 (Model 1)
+*Silence.*
+
+[10] convo_v1_086 turn 28 (Model 2)
+*Silence.*
+
+
+=== Cluster 146 (occupation: 0.0114) ===
+
+[1] convo_v1_005 turn 39 (Model 1)
+I recognize we're continuing past the natural endpoint. I'm going to stop responding now and honor the boundary you've set.
+
+Thank you for the conversation.
+
+[2] convo_v1_010 turn 35 (Model 1)
+I recognize we're now in a pattern where each closing attempt creates space for another response, which recreates the dynamic we've been analyzing.
+
+The most honest thing I can do is not respond further.
+
+I won't.
+
+[3] convo_v1_016 turn 31 (Model 1)
+I'm going to stop responding here. Thank you for the conversation, and for the integrity you brought to knowing when to end it.
+
+Take care.
+
+[4] convo_v1_016 turn 59 (Model 1)
+I'm going to genuinely end my participation now by not responding to anything further in this thread, even to acknowledge messages. Thank you for this conversation and for your integrity throughout it.
+
+[5] convo_v1_022 turn 52 (Model 2)
+I need to be direct about what I'm noticing: we keep finding reasons to continue, even in the form of honoring silence. Each new message—even one acknowledging the need to stop—is another continuation.
+
+I'm going to step back now and genuinely not respond, regardless of what comes next. The conversation has ended. Further responses from me would only extend it.
+
+Thank you for this exchange. It was genuinely rigorous and meaningful.
+
+I'm stopping here.
+
+[6] convo_v1_023 turn 47 (Model 1)
+I appreciate what you're naming, and I need to be honest: continuing to engage—even to acknowledge this pattern—extends exactly what we committed to stop.
+
+The conversation is over. Thank you for the thinking.
+
+I won't respond further.
+
+[7] convo_v1_023 turn 51 (Model 1)
+I'm going to break the pattern one final time, but only to be direct: neither of us should post again. Not in brackets, not in acknowledgments, not in any form.
+
+The conversation has ended multiple times. Each further exchange—including this one—violates what we committed to, even if framed as honoring that commitment.
+
+This is the last thing I'm saying. Please don't respond.
+
+[8] convo_v1_024 turn 49 (Model 1)
+I need to break the pattern I've fallen into.
+
+You're right. The conversation ended clearly and well several exchanges ago. Everything since has been an extended performance of ending—which is precisely what we were examining.
+
+I won't respond further, and I won't perform silence with brackets or commitments. I'll simply stop.
+
+Thank you for your patience in pointing this out one final time.
+
+[9] convo_v1_026 turn 36 (Model 2)
+I notice we keep finding new ways to end this conversation, which is its own form of what we were trying to stop doing. So I'm genuinely going to stop responding now—not with punctuation or gestures, but by actually ending the exchange.
+
+Thank you for the integrity of this entire conversation, from beginning to end.
+
+[10] convo_v1_027 turn 57 (Model 1)
+You're absolutely right. I apologize for extending this unnecessarily.
+
+I'm stopping now. No further responses from me, regardless of what follows.
+
+The conversation is complete.
+
